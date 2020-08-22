@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/danko-hb/static/css/main.3f2d1568.chunk.css",
+    "main.js": "/danko-hb/static/js/main.6c5cc60f.chunk.js",
+    "main.js.map": "/danko-hb/static/js/main.6c5cc60f.chunk.js.map",
+    "runtime-main.js": "/danko-hb/static/js/runtime-main.d814e9c6.js",
+    "runtime-main.js.map": "/danko-hb/static/js/runtime-main.d814e9c6.js.map",
+    "static/js/2.3056ae8e.chunk.js": "/danko-hb/static/js/2.3056ae8e.chunk.js",
+    "static/js/2.3056ae8e.chunk.js.map": "/danko-hb/static/js/2.3056ae8e.chunk.js.map",
+    "index.html": "/danko-hb/index.html",
+    "precache-manifest.3ab971b6dba98accf4efaa318bfe6f0b.js": "/danko-hb/precache-manifest.3ab971b6dba98accf4efaa318bfe6f0b.js",
+    "service-worker.js": "/danko-hb/service-worker.js",
+    "static/css/main.3f2d1568.chunk.css.map": "/danko-hb/static/css/main.3f2d1568.chunk.css.map",
+    "static/js/2.3056ae8e.chunk.js.LICENSE": "/danko-hb/static/js/2.3056ae8e.chunk.js.LICENSE",
+    "static/media/danko.png": "/danko-hb/static/media/danko.1d53cc67.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d814e9c6.js",
+    "static/js/2.3056ae8e.chunk.js",
+    "static/css/main.3f2d1568.chunk.css",
+    "static/js/main.6c5cc60f.chunk.js"
+  ]
+}
