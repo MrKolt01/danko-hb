@@ -1,0 +1,35 @@
+{
+  "name": "birthday-wisher",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://mrkolt01.github.io/danko-hb/",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-confetti": "^2.3.0",
+    "react-dom": "^16.6.3",
+    "react-particles-js": "^3.3.0",
+    "react-scripts": "^3.3.0",
+    "react-sizeme": "^2.5.2",
+    "styled-components": "^4.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "deploy": "react-scripts build && gh-pages --dist build --branch gh-pages",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
